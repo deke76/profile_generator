@@ -38,4 +38,3 @@ const askQuestion = qIndex => {
 };
 
 askQuestion(0);
-
